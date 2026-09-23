@@ -1,0 +1,17 @@
+{
+  "name": "ai-training-intro",
+  "version": "1.0.0",
+  "description": "AI-Driven Development training exercises",
+  "type": "module",
+  "scripts": {
+    "build": "tsc",
+    "test": "vitest run",
+    "test:watch": "vitest"
+  },
+  "devDependencies": {
+    "@types/node": "^22.13.9",
+    "typescript": "^5.8.2",
+    "vite": "^6.2.0",
+    "vitest": "^3.0.8"
+  }
+}
