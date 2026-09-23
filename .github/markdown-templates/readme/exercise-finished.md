@@ -2,7 +2,7 @@
 
 # 🎉 Congratulations {{ login }}! 🎉
 
-<img alt="badge module 1/11 complete" src="../../images/badge-module-01.png" height="200px" />
+<img alt="badge module 1/11 complete" src="https://github.com/corvidian/ai-training-intro-taas/blob/main/.github/images/badge-module-01.png?raw=true" height="200px" />
 
 ### 🌟 You've successfully completed the exercise! 🌟
 
